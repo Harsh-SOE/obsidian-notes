@@ -1,1 +1,28 @@
-.obsidian
+# ===============================
+# Obsidian
+# ===============================
+
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# If you don't want to track any Obsidian settings at all
+# uncomment the line below
+# .obsidian/
+
+# ===============================
+# OS files
+# ===============================
+
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Temporary / backups
+# ===============================
+
+*.tmp
+*.bak
+*.swp
+*.swo

@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c9946ea28e910b3c",
+        "id": "a682a05ebd9bd998",
         "type": "tabs",
         "children": [
           {
-            "id": "599256a88edbfc6e",
+            "id": "8e751f37c82fab28",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
                 "aFile": ".gitignore",
                 "bFile": ".gitignore",
-                "aRef": "HEAD",
-                "bRef": ""
+                "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: .gitignore  (Index)"
+              "title": "Diff: .gitignore  (Working Tree)"
             }
           }
         ]
@@ -216,7 +215,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "599256a88edbfc6e",
+  "active": "8e751f37c82fab28",
   "lastOpenFiles": [
     "Excalidraw/internal_of_js.excalidraw.md",
     "Excalidraw/internals_of_js.svg",
