@@ -11,10 +11,15 @@
             "id": "599256a88edbfc6e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: .gitignore  (Index)"
             }
           }
         ]
@@ -211,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2f282bc43d31b6d",
+  "active": "599256a88edbfc6e",
   "lastOpenFiles": [
     "Excalidraw/internal_of_js.excalidraw.md",
     "Excalidraw/internals_of_js.svg",
